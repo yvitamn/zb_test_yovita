@@ -1,0 +1,21 @@
+{
+  "name": "zb_test_yovita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvitamn/zb_test_yovita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yvitamn/zb_test_yovita/issues"
+  },
+  "homepage": "https://github.com/yvitamn/zb_test_yovita#readme"
+}
